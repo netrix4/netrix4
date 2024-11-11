@@ -33,7 +33,7 @@ I’m passionate about staying up-to-date with both emerging and established tec
 
 -   **Programación Orientada a Objetos Avanzada en C#**
 -   **Universidad React: De 0 a Master**
--   **[Finanzas para Jóvenes](https://drive.google.com/file/d/1LK-XiCvZtyBQrTO2-OOuZTIorjtH4l5g/view?usp=drive_link)**
+-   **[Finanzas para Jóvenes](https://drive.google.com/file/d/1Db9-dtrDUM6zEL5crdiW8vIe0RwnLPaA/view?usp=drive_link)**
 
 I am always exploring new ways to improve my technical and soft skills!
 
@@ -41,7 +41,7 @@ I am always exploring new ways to improve my technical and soft skills!
 ## More Abilities and Jobs
 + Store attendant at Walmart during 6 months.
 + Host at Baja Season helping customer to giving directions to resort's areas and getting the appropriate resort's personal to help them. 
-+ At least B1 English level: [Certificate](https://drive.google.com/file/d/13rhpDiTihHqAzKJdGSme4rDC1ZbIUArX/view?usp=drive_link).
++ At least B1 English level: [Certificate](https://drive.google.com/file/d/1AlJ7dIPB6eFHWPgKNU5-m3X0c25uGX4Q/view?usp=drive_link).
 + Participation at Feria Del Libro: [Certificate](https://drive.google.com/file/d/1VGRaQRMDuIv_7z5Nx_W7X1CHHf5JUhm4/view?usp=drive_link).
 
 <!--
